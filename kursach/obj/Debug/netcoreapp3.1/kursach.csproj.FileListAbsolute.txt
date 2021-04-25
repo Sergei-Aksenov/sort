@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\kursach\kursach\bin\Debug\netcoreapp3.1\kursach.exe
+C:\Users\User\source\repos\kursach\kursach\bin\Debug\netcoreapp3.1\kursach.deps.json
+C:\Users\User\source\repos\kursach\kursach\bin\Debug\netcoreapp3.1\kursach.runtimeconfig.json
+C:\Users\User\source\repos\kursach\kursach\bin\Debug\netcoreapp3.1\kursach.runtimeconfig.dev.json
+C:\Users\User\source\repos\kursach\kursach\bin\Debug\netcoreapp3.1\kursach.dll
+C:\Users\User\source\repos\kursach\kursach\bin\Debug\netcoreapp3.1\kursach.pdb
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.Form1.resources
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.AssemblyInfo.cs
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.dll
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.pdb
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.genruntimeconfig.cache
+C:\Users\User\source\repos\kursach\kursach\obj\Debug\netcoreapp3.1\kursach.csprojAssemblyReference.cache
